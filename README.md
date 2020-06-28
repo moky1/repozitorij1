@@ -1,2 +1,8 @@
 # repozitorij1
-Moj repozitorij
+
+Pozdrav!
+
+Dobro došli u moj GitHub!! ;) :D
+
+P.S.
+
