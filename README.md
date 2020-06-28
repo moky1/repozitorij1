@@ -2,4 +2,7 @@
 
 Pozdrav!
 
-Bla bla bla... ;) :D :P
+Dobro došli u moj GitHub!! ;) :D
+
+P.S.
+
